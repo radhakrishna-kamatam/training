@@ -1,0 +1,6 @@
+h:hellow
+w:world
+i:india
+p:pakistan
+m:mumbai
+
